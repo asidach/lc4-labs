@@ -1,0 +1,17 @@
+make -f /Users/sashasidach/Downloads/21fa-project-2-group-14-main 3/Makefile --dry-run --always-make --keep-going --print-directory
+find: ./src/util: No such file or directory
+ 
+find: ./src/pennos: No such file or directory
+ 
+find: ./src/pennfat: No such file or directory
+ 
+find: ./bin: No such file or directory
+ 
+make: Entering directory `/Users/sashasidach/lc4-labs'
+clang -o pennos  
+ 
+find: ./bin: No such file or directory
+ 
+clang -o pennfat  
+make: Leaving directory `/Users/sashasidach/lc4-labs'
+ 
